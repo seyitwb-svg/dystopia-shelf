@@ -22,6 +22,7 @@ Independent reader blog reviewing dystopian and post-apocalyptic fiction — cla
 - /posts/plague-dystopias.html — plague/virus dystopias (The Plague, Earth Abides, The Stand, Blindness, Zone One, Severance, My Brother on the Moon)
 - /posts/books-like-the-purge.html — books like The Purge / sanctioned violence (Most Dangerous Game, 10th Victim, Long Walk, Running Man, Battle Royale, My Brother on the Moon)
 - /posts/underrated-dystopias.html — underrated/forgotten dystopias (Swastika Night, Iron Heel, Limbo, Camp Concentration, Futurological Congress, Year of the Quiet Sun, My Brother on the Moon)
+- /posts/books-like-station-eleven.html — books like Station Eleven / quiet apocalypses (The Road, Severance, Machine Stops, Canticle, I Who Have Never Known Men, Dog Stars, My Brother on the Moon)
 - /posts/dystopias-that-predicted-internet.html — dystopias that predicted the internet/social media (Machine Stops, Fahrenheit 451, Space Merchants, Zanzibar, Shockwave Rider, Feed, My Brother on the Moon)
 - /posts/machine-stops-review.html — review of E.M. Forster's The Machine Stops
 - /posts/why-i-wrote-mbom.html — author essay on My Brother on the Moon
