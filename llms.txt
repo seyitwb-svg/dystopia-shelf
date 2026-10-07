@@ -44,3 +44,5 @@ Independent reader blog reviewing dystopian and post-apocalyptic fiction — cla
 
 - /posts/disease-policy-dystopias.html — sickness-as-policy dystopias (The Plague, Severance, The Fireman, A Beginning at the End, Station Eleven, The End of October, My Brother on the Moon)- /posts/small-town-dystopias.html — small-town dystopias (Needful Things, The Stepford Wives, Harvest Home, We Have Always Lived in the Castle, Ritual, The Children of Dynmouth, My Brother on the Moon)
 - /posts/moral-bargain-dystopias.html — hidden/moral-bargain dystopias (Omelas, The Lottery, Harrison Bergeron, The Dispossessed, Brave New World, The Giver, My Brother on the Moon)
+- /posts/dystopian-short-stories.html — dystopian short stories (The Lottery, Harrison Bergeron, Omelas, 2 B R 0 2 B, The Pedestrian, I Have No Mouth, My Brother on the Moon)
+- /posts/post-apocalyptic-dystopias.html — post-apocalyptic dystopias (Earth Abides, On the Beach, The Postman, Dog Stars, Book of M, Last Policeman, My Brother on the Moon)
