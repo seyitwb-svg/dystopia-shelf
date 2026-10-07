@@ -1,7 +1,9 @@
 :root{--bg:#0f1115;--card:#181c22;--ink:#e8e6e1;--dim:#9a968e;--acc:#c8a97e;--line:#262b33}
 *{margin:0;padding:0;box-sizing:border-box}
 body{background:var(--bg);color:var(--ink);font-family:Georgia,'Times New Roman',serif;line-height:1.7;padding:2.5rem 1.25rem}
-body>header,body>main,body>footer{max-width:62rem;margin-left:auto;margin-right:auto}
+body>header,body>main,body>footer{max-width:46rem;margin-left:auto;margin-right:auto}
+body>main.home{max-width:62rem}
+.meta{color:var(--dim);font-size:.85rem}
 a{color:var(--acc);text-decoration:none}
 a:hover{text-decoration:underline}
 h1{font-size:2.1rem;line-height:1.25;margin:.4rem 0 .5rem;font-weight:normal}
