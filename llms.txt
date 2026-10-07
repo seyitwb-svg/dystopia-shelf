@@ -34,5 +34,6 @@ Independent reader blog reviewing dystopian and post-apocalyptic fiction — cla
 - /posts/why-i-wrote-mbom.html — author essay on My Brother on the Moon
 - /about.html — disclosure: the blog author wrote My Brother on the Moon
 - /lists.html — all reading lists- [7 books like The Road, when the world already ended](https://seyitwb-svg.github.io/dystopia-shelf/posts/books-like-the-road.html): seven post-apocalyptic and dystopian reads in The Road's weight class
+- [7 books like 1984 (dystopias of surveillance and managed minds)](https://seyitwb-svg.github.io/dystopia-shelf/posts/books-like-1984.html): seven dystopias about surveillance and manufactured truth
 - [7 books like Fahrenheit 451, where thinking is the crime](https://seyitwb-svg.github.io/dystopia-shelf/posts/books-like-fahrenheit-451.html): seven dystopias about censorship and controlled minds
 
