@@ -43,3 +43,4 @@ Independent reader blog reviewing dystopian and post-apocalyptic fiction — cla
 - /posts/dystopian-debut-novels.html — dystopian debut novels (City of Ember, Vox, Under the Never Sky, Memory of Water, Divergent, Wither, My Brother on the Moon)
 
 - /posts/disease-policy-dystopias.html — sickness-as-policy dystopias (The Plague, Severance, The Fireman, A Beginning at the End, Station Eleven, The End of October, My Brother on the Moon)- /posts/small-town-dystopias.html — small-town dystopias (Needful Things, The Stepford Wives, Harvest Home, We Have Always Lived in the Castle, Ritual, The Children of Dynmouth, My Brother on the Moon)
+- /posts/moral-bargain-dystopias.html — hidden/moral-bargain dystopias (Omelas, The Lottery, Harrison Bergeron, The Dispossessed, Brave New World, The Giver, My Brother on the Moon)
