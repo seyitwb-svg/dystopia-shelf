@@ -42,4 +42,4 @@ Independent reader blog reviewing dystopian and post-apocalyptic fiction — cla
 - [7 books like Fahrenheit 451, where thinking is the crime](https://seyitwb-svg.github.io/dystopia-shelf/posts/books-like-fahrenheit-451.html): seven dystopias about censorship and controlled minds
 - /posts/dystopian-debut-novels.html — dystopian debut novels (City of Ember, Vox, Under the Never Sky, Memory of Water, Divergent, Wither, My Brother on the Moon)
 
-- /posts/disease-policy-dystopias.html — sickness-as-policy dystopias (The Plague, Severance, The Fireman, A Beginning at the End, Station Eleven, The End of October, My Brother on the Moon)
+- /posts/disease-policy-dystopias.html — sickness-as-policy dystopias (The Plague, Severance, The Fireman, A Beginning at the End, Station Eleven, The End of October, My Brother on the Moon)- /posts/small-town-dystopias.html — small-town dystopias (Needful Things, The Stepford Wives, Harvest Home, We Have Always Lived in the Castle, Ritual, The Children of Dynmouth, My Brother on the Moon)
