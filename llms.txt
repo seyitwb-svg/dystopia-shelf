@@ -54,3 +54,6 @@ Independent reader blog reviewing dystopian and post-apocalyptic fiction — cla
 - [7 books like I Am Legend](posts/books-like-i-am-legend.html): last men and what comes at night — Earth Abides to The Passage, plus a 68-page harvest indie.
 - [7 books like Never Let Me Go](posts/books-like-never-let-me-go.html): quiet dystopias — Klara to The Unit, plus a 68-page polite-plague indie.
 - [6 dystopias where sleep is the casualty](posts/sleep-dystopias.html): stolen sleep and stolen hours — Age of Miracles to Sleepless, plus a 68-page waking indie.
+- [6 dystopias where the job is the trap](posts/workplace-dystopias.html): The Factory to Severance — plus a 68-page indie where the sickness puts everyone on shift for an hour a day.
+- [6 dystopias where the market is the state](posts/economic-dystopias.html): Space Merchants to New York 2140 — plus a 68-page indie with a bounty economy.
+- [6 dystopias where the paperwork is the trap](posts/bureaucratic-dystopias.html): Kafka's unreachable administration to the queue before a gate that never opens — plus a 68-page ledger-keeping indie.
