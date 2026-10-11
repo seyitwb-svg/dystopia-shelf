@@ -7,7 +7,7 @@ CODE="${1:?usage: inject-analytics.sh <goatcounter-code>}"
 cd "$(dirname "$0")"
 SNIP="<script data-goatcounter=\"https://${CODE}.goatcounter.com/count\" async src=\"//gc.zgo.at/count.js\"></script>"
 count=0
-for f in index.html posts/*.html; do
+for f in index.html posts/*.html go/*.html; do
   if grep -q goatcounter "$f"; then continue; fi
   python3 - "$f" "$SNIP" <<'PY'
 import sys
